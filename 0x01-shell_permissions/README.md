@@ -1,10 +1,3 @@
-# Shell, permissions
-
-Project done during **Full Stack Software Engineering studies** at **Holberton School**. It aims to learn about man pages, permissions (owner, group and other) of files and directories in **Shell**.
-
-## Technologies
-* Scripts written in Bash 4.3.11(1)
-* Tested on Ubuntu 14.04 LTS
 
 ## Files
 All of the following files are scripts:
